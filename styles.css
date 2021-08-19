@@ -1,0 +1,79 @@
+@media only screen and (max-width: 375px){
+    
+    div{
+        border-radius: 10px;;
+    }
+    
+    img {
+        border-radius: 50%;
+        border: 2px solid #A775F1
+    }
+
+    .quotation{
+        border-radius: 0%;
+        border: transparent;
+    }
+
+    h5{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        color: #FFFFFF;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 13px;
+    }
+
+    .role{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 11px;
+            /* identical to box height, or 100% */
+        color: #FFFFFF;
+        mix-blend-mode: normal;
+        opacity: 0.5;
+    }
+
+    .highlight{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        color: #FFFFFF;
+    }
+
+    .review{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 18px;
+                /* or 138% */
+        color: #CFCFCF;
+        mix-blend-mode: normal;
+        opacity: 0.7;
+    }
+
+    #daniel{
+        background-color: #733FC8;
+    }
+
+    #jonathan{
+        background-color: #48556A;
+        
+    }
+
+    #jeanette{
+        background-color: #FFFFFF;
+    }
+
+    #patrick{
+        background-color: #19202D;
+    }
+
+    #kira{
+        background-color: #FFFFFF;
+    }
+
+}
