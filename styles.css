@@ -26,6 +26,14 @@
         line-height: 13px;
     }
 
+    .lightName{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        color:#48556A;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 13px;
+    }
+
     .role{
         font-family: 'Barlow Semi Condensed', sans-serif;
         font-style: normal;
@@ -34,6 +42,18 @@
         line-height: 11px;
             /* identical to box height, or 100% */
         color: #FFFFFF;
+        mix-blend-mode: normal;
+        opacity: 0.5;
+    }
+
+    .roleWhite{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 11px;
+            /* identical to box height, or 100% */
+        color: #48556A;
         mix-blend-mode: normal;
         opacity: 0.5;
     }
@@ -47,9 +67,16 @@
         color: #FFFFFF;
     }
 
-    #jeanette.highlight, #kira.highlight{
-        color: #48556A !important; 
+    .highlightWhite{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        color: #48556A;
     }
+
+    
 
     .review{
         font-family: 'Barlow Semi Condensed', sans-serif;
@@ -63,8 +90,14 @@
         opacity: 0.7;
     }
 
-    #jeanette.review, #kira.review{
-        color: #48556A !important;
+    .reviewWhite{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 18px;
+                /* or 138% */
+        color: #48556A;
         mix-blend-mode: normal;
         opacity: 0.7;
     }
