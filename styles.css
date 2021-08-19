@@ -1,11 +1,9 @@
 @media only screen and (max-width: 500px){
     body{
-        background-color: #DBC9C5;
+        background-color: #DAE9F2;
         display: grid;
         gap: 30px;    }
-    div{
-        
-    }
+    
     
     img {
         border-radius: 50%;
