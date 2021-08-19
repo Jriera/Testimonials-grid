@@ -149,3 +149,38 @@
     }
 
 }
+
+@media only screen and (min-width:501px){
+    body{
+
+        background-color: #DAE9F2;
+        display: grid;
+        gap: 30px;    
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+
+    }
+
+    #daniel{
+        grid-column: 1/2;
+    }
+
+    #jonathan {
+        grid-column: 3/3;
+    }
+
+    #jeanette{
+        grid-column: 1/1;
+        grid-row: 2/2;
+    }
+
+    #patrick{
+        grid-column: 2/3;
+        grid-row: 2/2;
+    }
+
+    #kira{
+        grid-column: 4/4;
+        grid-row: 1/2;
+    }
+}
