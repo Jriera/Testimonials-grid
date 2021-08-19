@@ -11,7 +11,7 @@
         border-radius: 50%;
         border: 2px solid #A775F1;
         max-height: 50px;
-        margin-right: 10%;
+        margin-right: 15px;
         
         
     }
@@ -312,9 +312,10 @@
 
         background-color: #DAE9F2;
         display: grid;
-        gap: 30px;    
+        gap: 20px;    
+        padding: 165px 9% 165px 9%;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-template-rows: 1fr 1fr;
+        grid-template-rows: 45% 40%;
 
     }
 
