@@ -48,7 +48,7 @@
     }
 
     #jeanette.highlight, #kira.highlight{
-        color: #48556A;
+        color: #48556A !important; 
     }
 
     .review{
@@ -64,7 +64,7 @@
     }
 
     #jeanette.review, #kira.review{
-        color: #48556A;
+        color: #48556A !important;
         mix-blend-mode: normal;
         opacity: 0.7;
     }
