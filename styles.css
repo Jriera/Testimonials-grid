@@ -1,3 +1,138 @@
+
+
+    body{
+        background-color: #DAE9F2;
+        display: grid;
+        gap: 30px;    }
+    
+    
+    img {
+        border-radius: 50%;
+        border: 2px solid #A775F1;
+        
+        
+        
+    }
+
+    .quotation{
+        position: absolute;
+        top: 0%;
+        right: 0%;
+        border-radius: 0%;
+        border: transparent;
+    }
+
+    .identity{
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 0%;
+    }
+
+    h5{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        color: #FFFFFF;
+        font-weight: 500;
+        margin:0;
+    }
+
+    .lightName{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        color:#48556A;
+        font-weight: 500;
+    }
+
+    .role{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+            /* identical to box height, or 100% */
+        color: #FFFFFF;
+        mix-blend-mode: normal;
+        opacity: 0.5;
+    }
+
+    .roleWhite{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 11px;
+            /* identical to box height, or 100% */
+        color: #48556A;
+        mix-blend-mode: normal;
+        opacity: 0.5;
+    }
+
+    .highlight{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        color: #FFFFFF;
+    }
+
+    .highlightWhite{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        color: #48556A;
+    }
+
+    
+
+    .review{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+                /* or 138% */
+        color: #CFCFCF;
+        mix-blend-mode: normal;
+        opacity: 0.7;
+    }
+
+    .reviewWhite{
+        font-family: 'Barlow Semi Condensed', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+                /* or 138% */
+        color: #48556A;
+        mix-blend-mode: normal;
+        opacity: 0.7;
+    }
+
+    #daniel{
+        position: relative;
+        background-color: #733FC8;
+        border-radius: 10px;
+    }
+
+    #jonathan{
+        background-color: #48556A;
+        border-radius: 10px;
+        
+    }
+
+    #jeanette{
+        background-color: #FFFFFF;
+        border-radius: 10px;
+    }
+
+    #patrick{
+        background-color: #19202D;
+        border-radius: 10px;
+    }
+
+    #kira{
+        background-color: #FFFFFF;
+        border-radius: 10px;
+    }
+
+
+
+
+
+
 @media only screen and (max-width: 500px){
     body{
         background-color: #DAE9F2;
